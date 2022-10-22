@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gym</string>
+    <string name="Inicio">Inicio</string>
+    <string name="Progreso">Progreso</string>
+    <string name="NombreUsuario"></string>
+    <string name="Configuracion">Configuracion</string>
+    <string name="DescripcionImagen">Gym_Image</string>
+    <string name="imagenFondoInicio" />
+    <string name="BarraNombre">Ingrese nombre</string>
+    <string name="BarraEdad">Ingrese edad</string>
+    <string name="BarraPeso">Ingrese peso (Kg)</string>
+    <string name="BarraEstatura">Ingrese estatura (m)</string>
+    <string name="BotonGuardar">Guardar</string>
+    <string name="s" />
+    <string name="BarraGenero">Ingrese Genero</string>
+    <string name="Registrar">Registrar</string>
+
+
+</resources>
